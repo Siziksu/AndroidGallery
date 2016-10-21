@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Gallery</string>
+    <string name="position" formatted="false">"%d of %d"</string>
+    <string name="no_data_available">No media found</string>
+</resources>
